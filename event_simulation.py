@@ -8,7 +8,7 @@ from queue import Queue
 from typing import List, Optional, Dict
 
 
-# ================== Job Data Class ===============
+# ================== Job Data Class =============
 @dataclass
 class Job:
     user_id: str
