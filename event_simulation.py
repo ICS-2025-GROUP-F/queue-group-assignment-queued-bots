@@ -18,7 +18,7 @@ class Job:
     waiting_time: float = 0.0
 
 
-# ================== Concurrent Job Queue ==================
+# ================== Concurrent Job Queue =============
 class ConcurrentQueueManager:
     def __init__(self, capacity: int):
         self.queue = Queue(maxsize=capacity)
