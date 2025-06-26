@@ -12,6 +12,7 @@ class Job:
 
 
 class QueueManager:
+    
     # Jobs managed in circular queue structure
     def __init__(self, capacity=10):
         self.capacity = capacity
