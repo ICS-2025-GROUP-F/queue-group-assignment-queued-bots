@@ -19,15 +19,15 @@ Contributions
 Core queue Management 
 Visualization and reporting
 
-👤 Sarah Kimani
+👤 Clifford Tabu
 Priority and aging system
 
-👤 John Otieno
+👤 Gideon Kiplangat
 Job Expiry and cleanup
 
-👤 Mary Achieng
+👤 Clive Sekandi
 Concurrent Job Submission Handling
 
-👤 Kevin Oduor
+👤 Gabriel Kibet
 Event simulation and time management
 
