@@ -12,5 +12,4 @@ def tick(self):
 
     self.remove_expired_jobs()
 
-   
     self.show_status()
